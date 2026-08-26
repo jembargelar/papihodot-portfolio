@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "about": "Tentang",
+    "skills": "Keahlian",
+    "portfolio": "Portofolio",
+    "experience": "Perjalanan",
+    "social": "Sosial",
+    "hire": "Hubungi"
+  },
+  "hero": {
+    "badge": "PORTFOLIO 2026",
+    "title": "DIFA BRILAND ARIFADO",
+    "subtitle": "Creative Designer • Photographer • Videographer • Content Creator",
+    "bio": "Creative professional with experience in the creative industry since 2017, focusing on graphic design, photography, videography, and digital content creation.",
+    "viewWork": "Lihat Karya",
+    "hireMe": "Hubungi Saya"
+  },
+  "about": {
+    "title": "Tentang Saya",
+    "subtitle": "PAPIH ODOT",
+    "fullBio": "Nama saya Difa Briland Arifado, lahir di Garut 02 Desember 2001. Saya sangat menyukai dunia entertainment, film, akting, editing, dan desain grafis. Memiliki pengalaman di bidang industri kreatif sejak tahun 2017 melalui berbagai project kreatif mulai dari branding, desain visual, fotografi, produksi video, hingga konten digital.",
+    "started": "Mulai Berkarya",
+    "location": "Lokasi Utama",
+    "fields": "Bidang Kreatif",
+    "dedication": "Dedikasinya"
+  },
+  "skills": {
+    "title": "Keahlian & Kompetensi",
+    "subtitle": "Keahlian profesional yang dikembangkan di industri kreatif.",
+    "c1": "Desain Grafis",
+    "c2": "Fotografi",
+    "c3": "Videografi",
+    "c4": "Pembuatan Konten"
+  },
+  "portfolio": {
+    "title": "Portofolio Unggulan",
+    "subtitle": "Koleksi karya desain grafis, fotografi, videografi, dan konten digital.",
+    "all": "Semua",
+    "design": "Desain Grafis",
+    "photo": "Fotografi",
+    "video": "Videografi",
+    "content": "Konten Kreator",
+    "tools": "Perangkat:"
+  },
+  "experience": {
+    "title": "Perjalanan Kreatif",
+    "subtitle": "Pertumbuhan profesional dan pencapaian di industri kreatif.",
+    "t1": "Mulai mengeksplorasi industri kreatif dan menguasai dasar-dasar alat desain.",
+    "t2": "Mengembangkan keterampilan dalam desain grafis, fotografi, dan pembuatan konten visual.",
+    "t3": "Mengerjakan berbagai project kreatif profesional, branding, dan konten digital.",
+    "t4": "Memperluas portofolio kreatif di bidang desain, fotografi, videografi, dan pembuatan konten."
+  },
+  "social": {
+    "title": "Mari Terhubung",
+    "subtitle": "Ikuti perjalanan kreatif saya dan jelajahi lebih banyak karya."
+  },
+  "contact": {
+    "title": "Punya Project atau Ingin Bekerja Sama?",
+    "subtitle": "Mari ciptakan karya yang bermakna dan luar biasa bersama.",
+    "whatsapp": "Hubungi (WhatsApp)",
+    "email": "Kirim Email"
+  },
+  "footer": {
+    "rights": "Seluruh hak cipta dilindungi."
+  }
+}

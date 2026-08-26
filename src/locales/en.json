@@ -1,0 +1,66 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "portfolio": "Portfolio",
+    "experience": "Journey",
+    "social": "Social",
+    "hire": "Hire Me"
+  },
+  "hero": {
+    "badge": "PORTFOLIO 2026",
+    "title": "DIFA BRILAND ARIFADO",
+    "subtitle": "Creative Designer • Photographer • Videographer • Content Creator",
+    "bio": "Creative professional with experience in the creative industry since 2017, focusing on graphic design, photography, videography, and digital content creation.",
+    "viewWork": "View My Work",
+    "hireMe": "Hire Me"
+  },
+  "about": {
+    "title": "About Me",
+    "subtitle": "PAPIH ODOT",
+    "fullBio": "My name is Difa Briland Arifado, born in Garut on December 2, 2001. I am very passionate about entertainment, films, acting, editing, and graphic design. Experienced in the creative industry since 2017 through various creative projects ranging from branding, visual design, photography, video production, to digital content.",
+    "started": "Started Journey",
+    "location": "Based Location",
+    "fields": "Creative Fields",
+    "dedication": "Dedicated"
+  },
+  "skills": {
+    "title": "Skills & Expertise",
+    "subtitle": "Professional competencies developed across the creative industry.",
+    "c1": "Graphic Design",
+    "c2": "Photography",
+    "c3": "Videography",
+    "c4": "Content Creation"
+  },
+  "portfolio": {
+    "title": "Featured Portfolio",
+    "subtitle": "A collection of creative works, graphic designs, photography, and digital content.",
+    "all": "All",
+    "design": "Graphic Design",
+    "photo": "Photography",
+    "video": "Videography",
+    "content": "Content Creator",
+    "tools": "Tools:"
+  },
+  "experience": {
+    "title": "Creative Journey",
+    "subtitle": "Professional growth and milestones in the creative industry.",
+    "t1": "Started exploring the creative industry and mastering basic design tools.",
+    "t2": "Developing skills in graphic design, photography, and visual content creation.",
+    "t3": "Working on various professional creative projects, branding, and digital content.",
+    "t4": "Expanding creative portfolio across design, photography, videography, and content creation."
+  },
+  "social": {
+    "title": "Let's Connect",
+    "subtitle": "Follow my creative journey and explore more of my work across platforms."
+  },
+  "contact": {
+    "title": "Have a Project in Mind?",
+    "subtitle": "Let's create something meaningful and stunning together.",
+    "whatsapp": "Hire Me (WhatsApp)",
+    "email": "Email Me"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
