@@ -3,64 +3,59 @@
     "about": "Tentang",
     "skills": "Keahlian",
     "portfolio": "Portofolio",
-    "experience": "Perjalanan",
+    "experience": "Pengalaman",
     "social": "Sosial",
     "hire": "Hubungi"
   },
   "hero": {
-    "badge": "PORTFOLIO 2026",
-    "title": "DIFA BRILAND ARIFADO",
-    "subtitle": "Creative Designer • Photographer • Videographer • Content Creator",
-    "bio": "Creative professional with experience in the creative industry since 2017, focusing on graphic design, photography, videography, and digital content creation.",
+    "badge": "Creative Industry & Media",
+    "title": "PAPIH ODOT",
+    "subtitle": "Entertainment • Film • Editing • Desain Grafis",
+    "bio": "Nama saya Papih Odot, lahir di Garut 02 Desember 2001. Sangat menyukai dunia entertainment, film, akting, editing, dan desain grafis dengan pengalaman sejak tahun 2017.",
     "viewWork": "Lihat Karya",
     "hireMe": "Hubungi Saya"
   },
   "about": {
     "title": "Tentang Saya",
-    "subtitle": "PAPIH ODOT",
-    "fullBio": "Nama saya Difa Briland Arifado, lahir di Garut 02 Desember 2001. Saya sangat menyukai dunia entertainment, film, akting, editing, dan desain grafis. Memiliki pengalaman di bidang industri kreatif sejak tahun 2017 melalui berbagai project kreatif mulai dari branding, desain visual, fotografi, produksi video, hingga konten digital.",
+    "subtitle": "Profil Singkat",
+    "fullBio": "Nama saya Papih Odot, lahir di Garut 02 Desember 2001. Saya sangat menyukai dunia entertainment, film, akting, editing, dan desain grafis. Memiliki pengalaman di bidang industri kreatif sejak tahun 2017 melalui berbagai project kreatif mulai dari branding, desain visual, fotografi, produksi video, hingga konten digital.",
     "started": "Mulai Berkarya",
-    "location": "Lokasi Utama",
-    "fields": "Bidang Kreatif",
+    "location": "Asal Kota",
+    "fields": "Bidang Keahlian",
     "dedication": "Dedikasinya"
   },
   "skills": {
-    "title": "Keahlian & Kompetensi",
-    "subtitle": "Keahlian profesional yang dikembangkan di industri kreatif.",
+    "title": "Keahlian & Tools",
+    "subtitle": "Teknologi dan perangkat yang biasa digunakan",
     "c1": "Desain Grafis",
-    "c2": "Fotografi",
-    "c3": "Videografi",
-    "c4": "Pembuatan Konten"
+    "c2": "Video & Editing",
+    "c3": "Fotografi",
+    "c4": "Entertainment & Digital"
   },
   "portfolio": {
-    "title": "Portofolio Unggulan",
-    "subtitle": "Koleksi karya desain grafis, fotografi, videografi, dan konten digital.",
+    "title": "Portofolio Karya",
+    "subtitle": "Beberapa hasil project kreatif pilihan",
     "all": "Semua",
     "design": "Desain Grafis",
     "photo": "Fotografi",
     "video": "Videografi",
-    "content": "Konten Kreator",
-    "tools": "Perangkat:"
+    "content": "Konten",
+    "tools": "Tools yang digunakan:"
   },
   "experience": {
-    "title": "Perjalanan Kreatif",
-    "subtitle": "Pertumbuhan profesional dan pencapaian di industri kreatif.",
-    "t1": "Mulai mengeksplorasi industri kreatif dan menguasai dasar-dasar alat desain.",
-    "t2": "Mengembangkan keterampilan dalam desain grafis, fotografi, dan pembuatan konten visual.",
-    "t3": "Mengerjakan berbagai project kreatif profesional, branding, dan konten digital.",
-    "t4": "Memperluas portofolio kreatif di bidang desain, fotografi, videografi, dan pembuatan konten."
+    "title": "Jejak Pengalaman",
+    "subtitle": "Perjalanan di industri kreatif",
+    "t1": "Memulai eksplorasi awal di dunia digital, fotografi, dan media sosial.",
+    "t2": "Aktif menggarap berbagai project desain visual, editing video, dan produksi konten.",
+    "t3": "Mengembangkan skala project kreatif secara profesional, branding, serta produksi media.",
+    "t4": "Fokus penuh membangun personal branding dan karya sinematik di bawah bendera Papih Odot."
   },
   "social": {
-    "title": "Mari Terhubung",
-    "subtitle": "Ikuti perjalanan kreatif saya dan jelajahi lebih banyak karya."
+    "title": "Media Sosial",
+    "subtitle": "Temukan saya di platform digital lainnya"
   },
   "contact": {
-    "title": "Punya Project atau Ingin Bekerja Sama?",
-    "subtitle": "Mari ciptakan karya yang bermakna dan luar biasa bersama.",
-    "whatsapp": "Hubungi (WhatsApp)",
-    "email": "Kirim Email"
-  },
-  "footer": {
-    "rights": "Seluruh hak cipta dilindungi."
+    "title": "Hubungi Saya",
+    "subtitle": "Mari berkolaborasi dalam project kreatif berikutnya"
   }
 }

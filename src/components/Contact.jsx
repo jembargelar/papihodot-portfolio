@@ -12,19 +12,13 @@ export default function Contact() {
         <p className="text-gray-400 text-sm mb-10">{t('contact.subtitle')}</p>
 
         <div className="flex flex-wrap items-center justify-center gap-4">
-          <a 
-            href={personalData.socials.whatsapp} 
-            target="_blank" 
+          <a
+            href={personalData.socials.whatsapp}
+            target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3.5 rounded-xl bg-cyan-500 hover:bg-cyan-400 text-gray-950 font-bold transition shadow-lg shadow-cyan-500/20"
           >
-            {t('contact.whatsapp')}
-          </a>
-          <a 
-            href={`mailto:${personalData.socials.email}`}
-            className="px-8 py-3.5 rounded-xl bg-gray-900 hover:bg-gray-800 text-white font-medium border border-gray-800 transition"
-          >
-            {t('contact.email')}
+            WhatsApp Me
           </a>
         </div>
       </div>

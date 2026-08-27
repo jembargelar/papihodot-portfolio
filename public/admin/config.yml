@@ -1,0 +1,13 @@
+backend:
+  name: github
+  repo: jembargelar/difa-portfolio
+  branch: main
+
+collections:
+  - name: "projects"
+    label: "Projects"
+    folder: "src/data"
+    create: false
+    file: "projects.js"
+    fields:
+      - {label: "Projects Data", name: "projects", widget: "list"}
