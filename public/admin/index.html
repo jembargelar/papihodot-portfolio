@@ -7,54 +7,5 @@
 </head>
 <body>
   <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
-  <script>
-    CMS.init({
-      config: {
-        backend: {
-          name: 'github',
-          repo: 'jembargelar/difa-portfolio',
-          branch: 'main'
-        },
-        media_folder: 'public/images',
-        public_folder: '/images',
-        collections: [
-          {
-            name: 'portfolio',
-            label: 'Portfolio Projects',
-            folder: 'public',
-            create: false,
-            extension: 'json',
-            format: 'json',
-            identifier_field: 'projects',
-            files: [
-              {
-                name: 'projects',
-                label: 'All Projects',
-                file: 'projects.json',
-                fields: [
-                  {
-                    label: 'Projects List',
-                    name: 'projects',
-                    widget: 'list',
-                    fields: [
-                      { label: 'ID', name: 'id', widget: 'number' },
-                      { label: 'Title (ID)', name: 'title_id', widget: 'string' },
-                      { label: 'Title (EN)', name: 'title_en', widget: 'string' },
-                      { label: 'Category', name: 'category', widget: 'select', options: ['Graphic Design', 'Photography', 'Videography', 'Content'] },
-                      { label: 'Year', name: 'year', widget: 'string' },
-                      { label: 'Description (ID)', name: 'desc_id', widget: 'text' },
-                      { label: 'Description (EN)', name: 'desc_en', widget: 'text' },
-                      { label: 'Tools', name: 'tools', widget: 'string' },
-                      { label: 'Image', name: 'image', widget: 'image' }
-                    ]
-                  }
-                ]
-              }
-            ]
-          }
-        ]
-      }
-    });
-  </script>
 </body>
 </html>
