@@ -1,0 +1,136 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title_id": "Azebee Store Name Card",
+      "title_en": "Azebee Store Name Card",
+      "category": "Graphic Design",
+      "year": "2024",
+      "desc_id": "Project NAME CARD dari AZEBEE STORE ini di desain dengan minimalist agar tetap terlihat simple dan elegant.",
+      "desc_en": "This AZEBEE STORE name card project is designed with a minimalist concept to keep it simple and elegant.",
+      "tools": "Photoshop",
+      "image": "/images/namecard.png"
+    },
+    {
+      "id": 2,
+      "title_id": "Design Graphic Decal Kits",
+      "title_en": "Design Graphic Decal Kits",
+      "category": "Graphic Design",
+      "year": "2024",
+      "desc_id": "Mockup motor di desain dengan model 3D agar Design Graphix Decal bisa terlihat lebih nyata dan sempurna.",
+      "desc_en": "The motorcycle mockup is designed in 3D so the Graphic Decal looks more realistic and flawless.",
+      "tools": "Photoshop, CorelDraw",
+      "image": "/images/designgraphicdecalkits.png"
+    },
+    {
+      "id": 3,
+      "title_id": "Azebee Store 3D Logo",
+      "title_en": "Azebee Store 3D Logo",
+      "category": "Graphic Design",
+      "year": "2024",
+      "desc_id": "Mockup Logo dari AZEBEE STORE ini di desain dengan model 3D agar bisa terlihat lebih nyata dan sempurna.",
+      "desc_en": "This AZEBEE STORE logo mockup is designed in 3D to look more realistic and perfect.",
+      "tools": "Photoshop",
+      "image": "/images/designlogo.png"
+    },
+    {
+      "id": 4,
+      "title_id": "Azebee Xiboba Booth Design",
+      "title_en": "Azebee Xiboba Booth Design",
+      "category": "Graphic Design",
+      "year": "2024",
+      "desc_id": "Booth Design ini di gunakan untuk membuat tampilan booth yang di gunakan untuk jualan agar lebih menarik.",
+      "desc_en": "This booth design is created to make the selling booth look much more attractive.",
+      "tools": "Photoshop",
+      "image": "/images/boothdesign.png"
+    },
+    {
+      "id": 5,
+      "title_id": "Marketing Tools & Social Media Content",
+      "title_en": "Marketing Tools & Social Media Content",
+      "category": "Graphic Design",
+      "year": "2024",
+      "desc_id": "Desain untuk kebutuhan Instagram feeds AZEBEE XIBOBA dan promosi iklan digital.",
+      "desc_en": "Designs for AZEBEE XIBOBA Instagram feeds and digital advertising promotions.",
+      "tools": "Photoshop",
+      "image": "/images/marketingtools.png"
+    },
+    {
+      "id": 6,
+      "title_id": "Red Cliff Movie Poster",
+      "title_en": "Red Cliff Movie Poster",
+      "category": "Graphic Design",
+      "year": "2025",
+      "desc_id": "Pembuatan poster film kreatif bergenre action/historical (Red Cliff) by Difa Odot Kane Production.",
+      "desc_en": "Creation of the action/historical movie poster (Red Cliff) by Difa Odot Kane Production.",
+      "tools": "Photoshop",
+      "image": "/images/redclife.png"
+    },
+    {
+      "id": 7,
+      "title_id": "Zombie Werewolf Movie Poster",
+      "title_en": "Zombie Werewolf Movie Poster",
+      "category": "Graphic Design",
+      "year": "2025",
+      "desc_id": "Pembuatan poster film kreatif bergenre horror (Zombie Werewolf) by Difa Odot Kane Production.",
+      "desc_en": "Creation of the horror movie poster (Zombie Werewolf) by Difa Odot Kane Production.",
+      "tools": "Photoshop",
+      "image": "/images/zombiewerewolf.png"
+    },
+    {
+      "id": 8,
+      "title_id": "Conceptual Hunting Photography",
+      "title_en": "Conceptual Hunting Photography",
+      "category": "Photography",
+      "year": "2023",
+      "desc_id": "Project Hunting foto bersama client dengan latar mobil klasik dan pemandangan alam.",
+      "desc_en": "Client photo hunting project featuring classic cars and natural scenery backgrounds.",
+      "tools": "Photoshop, Lightroom",
+      "image": "/images/photography.png"
+    },
+    {
+      "id": 9,
+      "title_id": "Photo Manipulation Editing",
+      "title_en": "Photo Manipulation Editing",
+      "category": "Photography",
+      "year": "2024",
+      "desc_id": "Karya manipulasi foto kreatif tingkat lanjut berkolaborasi dengan AZEBEE PHOTO.",
+      "desc_en": "Advanced creative photo manipulation artwork in collaboration with AZEBEE PHOTO.",
+      "tools": "Photoshop",
+      "image": "/images/manipulationediting.png"
+    },
+    {
+      "id": 10,
+      "title_id": "Videography & Promotional Video",
+      "title_en": "Videography & Promotional Video",
+      "category": "Videography",
+      "year": "2024",
+      "desc_id": "Project video promosi pribadi untuk keperluan konten sekaligus menjadi talent utama.",
+      "desc_en": "Personal promotional video project for content purposes while acting as the main talent.",
+      "tools": "CapCut",
+      "image": "/images/videografi.png"
+    },
+    {
+      "id": 11,
+      "title_id": "Nature Cinematic Short Movie",
+      "title_en": "Nature Cinematic Short Movie",
+      "category": "Videography",
+      "year": "2024",
+      "desc_id": "Project video short movie bertema cinematic bersama client yang dikerjakan sekaligus proses editing-nya.",
+      "desc_en": "Cinematic-themed short movie video project with a client, handled entirely along with editing.",
+      "tools": "CapCut",
+      "image": "/images/videografi1.png"
+    },
+    {
+      "id": 12,
+      "title_id": "Content Creator Digital Media",
+      "title_en": "Content Creator Digital Media",
+      "category": "Content",
+      "year": "2026",
+      "desc_id": "Membuat konten dan semua disiapkan sendiri mulai dari ide, konsep, editing, hingga interaksi aktif dengan puluhan ribu pengikut.",
+      "desc_en": "Creating content independently from ideas, concepts, editing, to active engagement with tens of thousands of followers.",
+      "tools": "Photoshop, CapCut",
+      "image": "/images/contencreator.png"
+    }
+  ]
+}

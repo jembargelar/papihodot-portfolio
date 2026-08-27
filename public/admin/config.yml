@@ -3,11 +3,25 @@ backend:
   repo: jembargelar/difa-portfolio
   branch: main
 
+media_folder: "public/images"
+public_folder: "/images"
+
 collections:
-  - name: "projects"
-    label: "Projects"
-    folder: "src/data"
-    create: false
-    file: "projects.js"
+  - name: "portfolio"
+    label: "Portfolio Projects"
+    file: "public/projects.json"
+    format: "json"
     fields:
-      - {label: "Projects Data", name: "projects", widget: "list"}
+      - label: "Projects List"
+        name: "projects"
+        widget: "list"
+        fields:
+          - {label: "ID", name: "id", widget: "number"}
+          - {label: "Title (ID)", name: "title_id", widget: "string"}
+          - {label: "Title (EN)", name: "title_en", widget: "string"}
+          - {label: "Category", name: "category", widget: "select", options: ["Graphic Design", "Photography", "Videography", "Content"]}
+          - {label: "Year", name: "year", widget: "string"}
+          - {label: "Description (ID)", name: "desc_id", widget: "text"}
+          - {label: "Description (EN)", name: "desc_en", widget: "text"}
+          - {label: "Tools", name: "tools", widget: "string"}
+          - {label: "Image", name: "image", widget: "image"}
